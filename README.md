@@ -62,13 +62,13 @@
   - inter_followers
   - inter_followees
 
-Adding new set of features (storage_sample_stage2) :
+- Adding new set of features (storage_sample_stage2) :
   - adar index
   - is following back
   -belongs to same weakly connect components
   - shortest path between source and destination
 
-Adding new set of features (storage_sample_stage3) :
+- Adding new set of features (storage_sample_stage3) :
   - Weight Features
     - weight of incoming edges
     - weight of outgoing edges
