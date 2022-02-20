@@ -85,13 +85,16 @@
   - authorities_s of source
   - authorities_s of dest
 
+## Modelling :
+- The most important part of this case studies is featurization, modelling is a straight forward things
+- RandomForestClassifier :
+  - Train f1 score 0.9652533106548414
+  - Test f1 score 0.9241678239279553
 
+![5](https://user-images.githubusercontent.com/54996809/154855898-5d4f7bfd-da9c-49ff-a19b-498ce8b96a5e.png)
 
-
-
-
-
-
+- Feature importance : Here, follows_back is the most important feature.
+![6](https://user-images.githubusercontent.com/54996809/154855955-45b3ccbb-7fb1-4c13-a629-64f99d15542a.png)
 
 
 
