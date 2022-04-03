@@ -1,4 +1,4 @@
-# Facebook-Friend-Recommendation-using-Graph-Mining
+# Social-Friend-Recommendation-using-Graph-Mining
 
 ## Problem Definition and Data Requirements :
 - Problem Statement is to predict missing links in a given directed social graph for friends/followers recommendation.
